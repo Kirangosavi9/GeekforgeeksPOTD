@@ -1,2 +1,3 @@
 # GeekforgeeksPOTD
-here is all the daily problems of gfg are solved using java.
+
+collection of daily coding challenges from GeeksforGeeks (GFG) has been addressed and resolved using the Java programming language.
